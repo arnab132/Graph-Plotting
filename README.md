@@ -1,4 +1,4 @@
-# Graph-Plotting
+# Graph Plotting using Python 
 
 This series will introduce you to graphing in python with Matplotlib, which is arguably the most popular graphing and data visualization library for Python.
 
